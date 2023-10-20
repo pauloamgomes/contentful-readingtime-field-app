@@ -31,7 +31,7 @@ The resulting calculation is stored in the entry in a JSON field like the follow
 
 ## ▶️ Demo
 
-<video src='./docs//screencast.mp4'></video>
+https://github.com/pauloamgomes/contentful-readingtime-field-app/assets/102261/cbaa555e-acb8-45a3-84ee-571a7f8f5b78
 
 Keep in mind that the accuracy of this formula might vary, particularly due the types of the embedded entries you have. However, you have the flexibility to tweak the values in the configuration, and manually override the calculated reading time within the entry.
 
