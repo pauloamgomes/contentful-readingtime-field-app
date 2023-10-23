@@ -41,8 +41,8 @@ Install the App by doing the below steps:
 
 1. Create a new Contentful custom App and define the Application Name (e.g. Reading Time)
 
-2. Download this repo and drag the dist folder into the Bundles upload zone:
-   You can find more details about hosting an [Contentful app here](https://www.contentful.com/developers/docs/extensibility/app-framework/hosting-an-app/)
+2. Download, extract [bundle.zip](https://github.com/pauloamgomes/contentful-readingtime-field-app/releases/download/v1.0.1/bundle.zip) and drag the resulting folder into the Bundles upload zone.
+You can find more details about hosting an [Contentful app here](https://www.contentful.com/developers/docs/extensibility/app-framework/hosting-an-app/)
 
 3. Set the App configuration screen and Field locations (JSON Object field):
 
