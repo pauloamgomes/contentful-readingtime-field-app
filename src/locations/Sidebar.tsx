@@ -22,7 +22,7 @@ interface IValue {
 const ReadingTimeRow = ({
   value,
   locale,
-  isLocalized
+  isLocalized,
 }: {
   value: IValue;
   locale?: string;
@@ -121,6 +121,7 @@ const Sidebar = () => {
     <Card>
       {Object.keys(value).map((locale) => (
         <ReadingTimeRow
+          key={locale}
           value={value[locale]}
           locale={sdk.locales.names[locale]}
           isLocalized={Object.keys(value).length > 1}
