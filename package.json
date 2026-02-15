@@ -14,7 +14,7 @@
     "@contentful/react-apps-toolkit": "1.2.16",
     "@contentful/rich-text-links": "^16.5.0",
     "@contentful/rich-text-plain-text-renderer": "^16.0.7",
-    "contentful-management": "10.38.3",
+    "contentful-management": "10.40.0",
     "emotion": "10.0.27",
     "markdown-to-txt": "^2.0.1",
     "react": "18.2.0",
